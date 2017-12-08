@@ -13,6 +13,7 @@ git push -u origin master
 git remote add origin https://github.com/hamkairama/StartProject.git
 git push -u origin master
 
+Testing perubahan file pada start.txt melalui notepad
 
 
 
